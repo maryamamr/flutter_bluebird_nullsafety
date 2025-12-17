@@ -22,7 +22,6 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.plugin.flutter.bluebirdscanner'
     compileSdkVersion 30
 
     defaultConfig {
